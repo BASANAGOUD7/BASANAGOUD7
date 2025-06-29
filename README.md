@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @BASANAGOUD7
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning engineering
+- 👋 Hi, I’m Basanagoud Patil
 
 <!---
 BASANAGOUD7/BASANAGOUD7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
